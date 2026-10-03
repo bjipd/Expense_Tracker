@@ -1,0 +1,32 @@
+HELP.md
+
+# Build output
+/target/
+.mvn/wrapper/maven-wrapper.jar
+
+# Secrets and local config
+.env
+application-local.yaml
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+/logs/
+
+# Local Docker data
+/postgres-data/
