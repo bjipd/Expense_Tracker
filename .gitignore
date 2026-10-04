@@ -7,6 +7,7 @@ HELP.md
 # Secrets and local config
 .env
 application-local.yaml
+application.yaml
 
 # IDE files
 .idea/
